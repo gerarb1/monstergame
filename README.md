@@ -1,4 +1,4 @@
-# 🗺️ Monster Game (Expo + TypeScript)
+#  Monster Game (Expo + TypeScript)
 
 Prototipo de juego móvil 2D ligero desarrollado con **React Native**, **Expo** y **TypeScript**.
 
@@ -18,7 +18,7 @@ Diseñado bajo una filosofía minimalista: sin motores de física pesados, sin g
 
 ---
 
-## 🚀 Requisitos Previos
+##  Requisitos Previos
 
 1. **Node.js** (versión 18 o superior recomendada).
 2. Para probar en dispositivo móvil:
@@ -27,7 +27,7 @@ Diseñado bajo una filosofía minimalista: sin motores de física pesados, sin g
 
 ---
 
-## 📦 Instalación
+##  Instalación
 
 1. Clona el repositorio:
    ```bash
@@ -42,9 +42,9 @@ Diseñado bajo una filosofía minimalista: sin motores de física pesados, sin g
 
 ---
 
-## 🕹️ Cómo Probar la Demo
+##  Cómo Probar la Demo
 
-### Opción 1: En tu celular con Expo Go (Recomendado)
+### Opción 1: En tu celular con Expo Go 
 
 Inicia el servidor de desarrollo en modo túnel (evita problemas de firewall o redes distintas):
 
@@ -56,7 +56,7 @@ npx expo start --tunnel
 * **En Android**: Abre la app **Expo Go** en tu celular, pulsa el botón **"Scan QR code"** y apunta a la terminal.
 * **En iPhone**: Abre la app nativa de **Cámara**, apunta al código QR y pulsa en la notificación amarilla emergente **"Abrir en Expo Go"**.
 
-> 💡 **Nota si tienes adaptadores virtuales o VPNs en Windows (Radmin VPN, VirtualBox, etc.)**:  
+>  **Nota si tienes adaptadores virtuales o VPNs en Windows (Radmin VPN, VirtualBox, etc.)**:  
 > Si prefieres usar la red local (LAN) en vez del túnel, define tu IP local antes de arrancar:
 > ```powershell
 > # En PowerShell:
@@ -78,7 +78,7 @@ O si ya tienes `npm start` en ejecución, presiona la tecla **`w`** en la termin
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```text
 ├── App.tsx                  # Componente principal y ciclo de vida del juego
@@ -97,7 +97,7 @@ O si ya tienes `npm start` en ejecución, presiona la tecla **`w`** en la termin
 
 ---
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 - [Expo](https://expo.dev/) (SDK 57)
 - [React Native](https://reactnative.dev/)

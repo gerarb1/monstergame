@@ -6,7 +6,7 @@ Diseñado bajo una filosofía minimalista: sin motores de física pesados, sin g
 
 ---
 
-## 🎮 Características y Mecánicas
+##  Características y Mecánicas
 
 - **Mapa estático en cuadrícula (10x10)**: Definido mediante una matriz numérica 2D (`0 = pasto`, `1 = árboles/paredes`, `2 = agua`), renderizado mediante un doble `.map()` sobre componentes `<View>` coloreados.
 - **Movimiento con D-Pad**: Cruceta direccional táctil con 4 botones (▲, ◀, ▶, ▼) que desplaza al jugador casilla por casilla, validando límites del mapa y bloqueando el paso a través de obstáculos o agua.
